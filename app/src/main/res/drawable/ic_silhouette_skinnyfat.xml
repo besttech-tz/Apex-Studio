@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="130dp"
+    android:viewportWidth="100"
+    android:viewportHeight="130">
+    <path
+        android:pathData="M10,38 L90,38 M10,74 L90,74 M50,8 L50,122"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0" />
+    <!-- Head -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M50,20m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0"
+        android:strokeWidth="1.8"
+        android:strokeColor="#0F172A" />
+    <!-- Neck -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M46,29h8v6h-8z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#0F172A" />
+    <!-- Skinny-Fat: Narrow Shoulders & Soft Lower Midsection -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M35,36 L65,36 L64,58 C68,68 68,82 63,92 L60,120 L52,120 L51,95 L49,95 L48,120 L40,120 L37,92 C32,82 32,68 36,58 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#0F172A" />
+    <!-- Soft Lower Midsection Indicator -->
+    <path
+        android:fillColor="#26D97706"
+        android:pathData="M50,76m-14,0a14,9 0,1 1,28 0a14,9 0,1 1,-28 0"
+        android:strokeWidth="1.4"
+        android:strokeColor="#D97706" />
+</vector>

@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <!-- Clean Light Card Frame -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M0,0h160v160h-160z" />
+    <!-- Bench Base -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M24,122h112v8h-112z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M42,130h10v16h-10z M108,130h10v16h-10z" />
+    <!-- Athlete Head & Torso in Peak Contraction Position -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M80,48m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M60,64h40v52h-40z" />
+    <!-- Peak Contraction Upper Chest Glow -->
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M62,66h36v18h-36z" />
+    <!-- Arms Pressed Overhead to Peak Contraction -->
+    <path
+        android:pathData="M60,74 L48,54 L52,32 M100,74 L112,54 L108,32"
+        android:strokeWidth="6"
+        android:strokeColor="#0F172A"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Dumbbell / Bar at Peak Lockout -->
+    <path
+        android:pathData="M34,30 L126,30"
+        android:strokeWidth="5"
+        android:strokeColor="#16A34A"
+        android:strokeLineCap="round" />
+</vector>

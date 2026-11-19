@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="130dp"
+    android:viewportWidth="100"
+    android:viewportHeight="130">
+    <!-- Background Subtle Grid -->
+    <path
+        android:pathData="M10,38 L90,38 M10,74 L90,74 M50,8 L50,122"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0" />
+    <!-- Head -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M50,20m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0"
+        android:strokeWidth="1.8"
+        android:strokeColor="#0F172A" />
+    <!-- Neck -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M45,29h10v6h-10z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#0F172A" />
+    <!-- Heavy / High Belly Fat Torso & Wide Waist -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,36 L70,36 L78,64 C82,78 78,90 70,94 L66,120 L54,120 L52,96 L48,96 L46,120 L34,120 L30,94 C22,90 18,78 22,64 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#0F172A" />
+    <!-- Protruding Abdomen Highlight Ring -->
+    <path
+        android:fillColor="#33D97706"
+        android:pathData="M50,74m-21,0a21,13 0,1 1,42 0a21,13 0,1 1,-42 0"
+        android:strokeWidth="1.6"
+        android:strokeColor="#D97706" />
+</vector>

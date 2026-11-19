@@ -1,0 +1,6 @@
+{
+  "name": "Apex Protocol",
+  "description": "Tactical physical telemetry, morphological gap calibration, 4-day machine/dumbbell combat deck with 90s rest engine, and daily metabolic compliance ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

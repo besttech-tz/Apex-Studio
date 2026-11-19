@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="130dp"
+    android:viewportWidth="100"
+    android:viewportHeight="130">
+    <path
+        android:pathData="M10,38 L90,38 M10,74 L90,74 M50,8 L50,122"
+        android:strokeWidth="0.8"
+        android:strokeColor="#E2E8F0" />
+    <!-- Head -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M50,20m-9,0a9,9 0,1 1,18 0a9,9 0,1 1,-18 0"
+        android:strokeWidth="1.8"
+        android:strokeColor="#0F172A" />
+    <!-- Neck -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M45,29h10v6h-10z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#0F172A" />
+    <!-- Average Untrained: Flat Chest, Soft Waistline -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M31,36 L69,36 L68,60 C71,70 70,84 65,92 L62,120 L53,120 L51,95 L49,95 L47,120 L38,120 L35,92 C30,84 29,70 32,60 Z"
+        android:strokeWidth="2.0"
+        android:strokeColor="#0F172A" />
+    <!-- Soft Waistline Marker -->
+    <path
+        android:pathData="M33,74 L67,74"
+        android:strokeWidth="1.6"
+        android:strokeColor="#64748B" />
+</vector>

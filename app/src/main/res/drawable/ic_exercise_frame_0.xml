@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="160dp"
+    android:viewportWidth="160"
+    android:viewportHeight="160">
+    <!-- Clean Light Card Frame -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M0,0h160v160h-160z" />
+    <!-- Bench Base -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M24,122h112v8h-112z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M42,130h10v16h-10z M108,130h10v16h-10z" />
+    <!-- Athlete Head & Torso in Start (Stretch) Position -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M80,48m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M60,64h40v52h-40z" />
+    <!-- Target Upper Chest Highlight -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M64,68h32v16h-32z" />
+    <!-- Arms at 45-Degree Stretch -->
+    <path
+        android:pathData="M60,74 L38,94 L42,68 M100,74 L122,94 L118,68"
+        android:strokeWidth="6"
+        android:strokeColor="#0F172A"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Dumbbell / Bar at Chest Level -->
+    <path
+        android:pathData="M26,66 L134,66"
+        android:strokeWidth="5"
+        android:strokeColor="#2563EB"
+        android:strokeLineCap="round" />
+</vector>

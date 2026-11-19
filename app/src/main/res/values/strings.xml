@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Apex Protocol</string>
+    <string name="header_system_title">APEX PROTOCOL // SYS-REV 4.2</string>
+    <string name="nav_calibration">CALIBRATION</string>
+    <string name="nav_combat_deck">COMBAT DECK</string>
+    <string name="nav_telemetry">TELEMETRY</string>
+    <string name="channel_apex_operations_name">APEX_OPERATIONS</string>
+    <string name="channel_apex_operations_desc">High-priority physical telemetry, fuel audit, metabolic lock, and recovery dispatches.</string>
+    <string name="stagnation_warning_banner">METABOLIC ADAPTATION DETECTED: Cut daily calories by 150 kcal or increase daily steps to 12,000 immediately.</string>
+    <string name="slot_1_current_specimen">SLOT 1: CURRENT SPECIMEN</string>
+    <string name="slot_2_target_benchmark">SLOT 2: TARGET BENCHMARK</string>
+    <string name="compliance_10k_steps">10,000 Steps Reached</string>
+    <string name="compliance_zero_sugar_fried">Zero Liquid Sugars &amp; Zero Fried Snacks</string>
+    <string name="compliance_protein_floor">Daily Protein Floor Locked</string>
+    <string name="compliance_kitchen_closed">Kitchen Closed by 8:00 PM</string>
+</resources>
